@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xontext-docs",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xontext-docs",
+  "usageRepository": "https://github.com/x12i-sdk/xontext",
+  "sourceRepository": "https://github.com/x12i/xontext",
+  "sourceCommit": "7383f05fda8ece00db443a427dea980016fd1ebf",
+  "sourcePackageDirectory": "xontext-docs/packages/xontext-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:05:27.086083+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "635bc86937853bc801751a80cc3143724dee3d67b4b81b2a20dc2806f7842ed4",
+    "manifestSha256": "ee0e7475418b4be43b0bf7cedc38702a5aecf5887163e6db658397efc6999209"
+  },
+  "npmPackages": [
+    "@x12i/xontext-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
